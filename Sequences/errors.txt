@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 550: expected menuitem
+    _("Да"):
+    ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Wed May 31 02:37:24 2023
