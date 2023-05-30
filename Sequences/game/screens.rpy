@@ -786,6 +786,11 @@ screen preferences():
                         textbutton _("Без звука"):
                             action Preference("all mute", "toggle")
                             style "mute_all_button"
+                        
+                vbox:
+                    label _("Язык")
+                    textbutton "Русский" action Language(None)
+                    textbutton "English" action Language("english")
 
 
 style pref_label is gui_label
